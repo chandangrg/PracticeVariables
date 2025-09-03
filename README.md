@@ -41,3 +41,11 @@ Assignment13_StudentMarks.java
    ```bash
    git clone https://github.com/your-username/java-assignments.git
    cd java-assignments
+👨‍💻 Author
+
+Chandan Gurung
+Queens, New York
+📧 Chandangurung67@gmail.com
+
+🔗 LinkedIn
+ | GitHub
